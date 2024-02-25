@@ -15,3 +15,6 @@ Ensure you have Node.js and MongoDB installed on your machine.
 
 1. Clone the repository:
    https://github.com/DevGops/BookStoreMernStack.git
+
+2. This project is from youtube:
+   Mern Stack Totorial - Book Store Project (freeCodeCamp.org)
