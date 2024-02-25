@@ -14,3 +14,4 @@ This application is built using the MERN stack (MongoDB, Express.js, Node.js, an
 Ensure you have Node.js and MongoDB installed on your machine.
 
 1. Clone the repository:
+   https://github.com/DevGops/BookStoreMernStack.git
